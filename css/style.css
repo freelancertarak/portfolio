@@ -1282,8 +1282,8 @@ section .main_form_sec .all_input_sec .input_sub_sec input[type="submit"] {
   }
 
   .about_main .about_img_saction .main_img_sec img {
-    width: 350px;
     height: 350px;
+    width: 345px;
   }
 
   .review_main .reviews_section {
@@ -1384,7 +1384,9 @@ section .main_form_sec .all_input_sec .input_sub_sec input[type="submit"] {
   .about_main .about_img_saction .main_img_sec {
     margin-top: 20px;
     border-radius: 50%;
-    border: 5px solid #fff;
+    border-left: none;
+    border-bottom: none;
+    border: 5px solid #fff !important;
   }
 
   .main_conatct {
@@ -1740,7 +1742,7 @@ section .main_form_sec .all_input_sec .input_sub_sec input[type="submit"] {
   }
 
   .about_main .about_img_saction .main_img_sec img {
-    width: 250px;
+    width: 245px;
     height: 250px;
   }
 
