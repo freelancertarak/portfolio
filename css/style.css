@@ -1319,7 +1319,7 @@ section .main_form_sec .all_input_sec .input_sub_sec input[type="submit"] {
   }
 
   .about_main .about_text_section p {
-    font-size: 0.6rem;
+    font-size: 0.7rem;
   }
 
   .service_section .service_cards_main div {
@@ -1700,7 +1700,7 @@ section .main_form_sec .all_input_sec .input_sub_sec input[type="submit"] {
   }
 
   .home_main .text_aria p {
-    font-size: 10px;
+    font-size: 12px;
   }
 
   .home_main .images_aria .img_div {
@@ -1757,6 +1757,10 @@ section .main_form_sec .all_input_sec .input_sub_sec input[type="submit"] {
   .about_main .about_text_section a button {
     width: 120px;
   }
+
+  .about_main .about_text_section {
+    padding-right: 15px;
+  }
 }
 
 @media screen and (max-width: 400px) {
@@ -1765,11 +1769,11 @@ section .main_form_sec .all_input_sec .input_sub_sec input[type="submit"] {
   }
 
   .home_main .text_aria p {
-    font-size: 8px;
+    font-size: 11px;
   }
 
   .home_main .text_aria {
-    height: 45vh;
+    height: 50vh;
   }
 
   .home_main .images_aria .img_div {
